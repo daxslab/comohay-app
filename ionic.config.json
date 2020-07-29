@@ -1,0 +1,7 @@
+{
+  "name": "ComoHay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
